@@ -1,6 +1,6 @@
 /* Guarda o app no aparelho para funcionar sem internet.
    Ao publicar uma atualização, aumente o número da VERSAO. */
-const VERSAO = "neon-v2";
+const VERSAO = "neon-v3";
 const ARQUIVOS = [
   "./",
   "index.html",
